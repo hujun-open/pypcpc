@@ -104,7 +104,7 @@ optional arguments:
 
 
 ## Usage as a Library
-from pypcpc import asyncPCPClient
+from pcpc import asyncPCPClient
 
 see comments in pypcpc.py for detail usage
 
