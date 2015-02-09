@@ -1,6 +1,7 @@
 # pypcpc
 
 This is a Port Control Protocol(PCP) command line client/lib in python.
+Only supports PCPv2.
 
 Following PCP opcodes are supported:
 * MAP (RFC6887)
